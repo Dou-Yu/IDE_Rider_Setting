@@ -33,11 +33,6 @@
     <keyboard-shortcut first-keystroke="ctrl v" />
     <keyboard-shortcut first-keystroke="meta v" />
   </action>
-  <action id="GotoDeclaration">
-    <mouse-shortcut keystroke="button2" />
-    <mouse-shortcut keystroke="shift control button1" />
-    <keyboard-shortcut first-keystroke="ctrl b" />
-  </action>
   <action id="Jdbc.OpenConsole.New">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
